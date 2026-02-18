@@ -1,0 +1,92 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TRTMuzik",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TEVE2",TEVE2
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
+
+#EXTINF:-1 tvg-id="Tv360",Tv360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="TRT-1",TRT-1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1 tvg-id="TV 8,5",TV 8,5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
+
+#EXTINF:-1 tvg-id="Kanal D",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=83ro0vwdomwu&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 tvg-id="ATV.tr@SD",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="StarTV",StarTV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=83r1kxsrcu8t&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 tvg-id="ShowTV",ShowTV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=83ro44o5lj3a&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 tvg-id="NOW",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 tvg-id="TBMM TV",Meclis TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-id="Dream TV",Dream TV
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8?&live=true&app=com.dreamturk
+
+#EXTINF:-1 tvg-id="PowerDance.tr@SD",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerLove.tr@SD",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerPlus.tr@SD",Power Plus (1080p)
+https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD",Power Turk (1080p) [Not 24/7]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD",Power Turk (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr@SD",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkEnIyiler.tr@SD",Power Türk En Iyiler (1080p)
+https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.tr@SD",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.tr@SD",Power TV (720p)
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD",PowerTurk TV
+https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD",PowerTürk TV (720p)
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Ask.tr@SD",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Damar.tr@SD",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr@SD",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr@SD",Number 1 Dance (480p)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Turk.tr@SD",Number 1 Türk (720p)
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 tvg-id="Number1TV.tr@SD",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1TV.tr@SD",Number 1 TV (720p)
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
