@@ -12,7 +12,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="TRT-1",TRT-1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
-#EXTINF:-1 tvg-id="TV 8,5",TV 8,5
+#EXTINF:-1 tvg-id="TV 85",TV 85
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
 
 #EXTINF:-1 tvg-id="Kanal D",Kanal D
@@ -29,6 +29,9 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 
 #EXTINF:-1 tvg-id="NOW",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 tvg-id="SZC",SZC
+https://cdn900.canlitv.me/sozcutv.m3u8?tkn=eeJLFYT1CVgsoMtl_wfLQg&tms=1776034333&hst=www.canlitv.me&ip=143.178.46.60&utkn=f0d4a507eea32bf735e4e49d6886eaa7&ch=sozcutvcanli-hd
 
 #EXTINF:-1 tvg-id="TBMM TV",Meclis TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
