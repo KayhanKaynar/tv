@@ -61,6 +61,18 @@
       transition: opacity .2s, transform .15s;
     }
     .nav-btn:hover { opacity: .9; transform: translateY(-1px); }
+    .nav-right { display: flex; align-items: center; gap: 1rem; }
+    .ip-badge {
+      font-size: .78rem;
+      color: var(--muted);
+      background: rgba(255,255,255,.05);
+      border: 1px solid rgba(255,255,255,.08);
+      padding: .35rem .85rem;
+      border-radius: 50px;
+      letter-spacing: .02em;
+      white-space: nowrap;
+    }
+    .ip-badge span { color: var(--text); font-weight: 600; }
 
     /* ── HERO ── */
     .hero {
@@ -306,7 +318,10 @@
     <li><a href="#">Favoriler</a></li>
     <li><a href="#">Hakkında</a></li>
   </ul>
-  <button class="nav-btn">Şimdi İzle</button>
+  <div class="nav-right">
+    <div class="ip-badge">🌐 <span id="user-ip">yükleniyor…</span></div>
+    <button class="nav-btn">Şimdi İzle</button>
+  </div>
 </nav>
 
 <!-- HERO -->
@@ -454,5 +469,11 @@
   <span>© 2026 StreamTV. Tüm hakları saklıdır.</span>
 </footer>
 
+<script>
+  fetch('https://api.ipify.org?format=json')
+    .then(r => r.json())
+    .then(d => { document.getElementById('user-ip').textContent = d.ip; })
+    .catch(() => { document.getElementById('user-ip').textContent = 'bilinmiyor'; });
+</script>
 </body>
 </html>
